@@ -205,3 +205,12 @@ color: #FFFFFF;
 background: #273549;
 border-radius: 6px;
 }
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#D5D4D8;
+    color: rgb(174, 175, 185);
+    text-align: center;
+  }
